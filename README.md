@@ -13,9 +13,9 @@ AUTONOMOUS AIR TRAFFIC CONTROLLER
 Description: Autonomous ATC will coordinate several quadrotors trying to simulate a TRACON environment. The quadrotors will be asked to follow a preset series of waypoints. Goal is to also establish communication giving commands similar to ATC directives like holding, new routing etc.
 
 Goals: For the project, Autonomous ATC will simulate following situations :
-a. Sequential take-off and landing
-b. Parallel take-off and landing
-c. Emergency landings
+* Sequential take-off and landing
+* Parallel take-off and landing
+* Emergency landings
 
 ### VIDEO
 [![](images/IMG_video.jpg)](https://www.youtube.com/playlist?list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n)
