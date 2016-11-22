@@ -6,7 +6,7 @@ AUTONOMOUS AIR TRAFFIC CONTROLLER
 * Prateek Singhal
 * Karan Modi
 * Nitesh Singh
-* [Blog](https://devpost.com/software/project-name) (TODO: Link to devpost submission)
+* [Blog](https://devpost.com/software/autonomous-air-traffic-controller-pg62u5)
 
 ### DESCRIPTION AND GOALS
 
@@ -19,7 +19,7 @@ c. Emergency landings
 (TODO: Add a brief description of the project and Final Goals)
 
 ### VIDEO
-[![](images/Thumb.jpg)](https://www.youtube.com/playlist?list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n)
+[![]()](https://www.youtube.com/playlist?list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n)
 
 ### IMAGES and GIFs
 Add images and screenshot of your product, user iterface, etc. Animated GIFs of User interfaces would be preferred.
