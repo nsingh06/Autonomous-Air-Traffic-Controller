@@ -29,10 +29,10 @@ Add images and screenshot of your product, user iterface, etc. Animated GIFs of 
 
 
 ### BUILD INSTRUCTIONS
-To work with this code you need to first install Mavproxy and dronekit on your computer. The link for it is given below:
-http://python.dronekit.io/develop/installation.html
-Clone this repository on your computer.
-Change directory to the cloned directory and then type
-pyhton filename
-for example
-python four_quad_final.py
+* To work with this code you need to first install Mavproxy and dronekit on your computer. The link for it is given below:
+* http://python.dronekit.io/develop/installation.html
+* Clone this repository on your computer.
+* Change directory to the cloned directory and then type
+* pyhton filename
+* for example
+* python four_quad_final.py
