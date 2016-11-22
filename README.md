@@ -16,7 +16,6 @@ Goals: For the project, Autonomous ATC will simulate following situations :
 a. Sequential take-off and landing
 b. Parallel take-off and landing
 c. Emergency landings
-(TODO: Add a brief description of the project and Final Goals)
 
 ### VIDEO
 [![](images/IMG_video.jpg)](https://www.youtube.com/playlist?list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n)
@@ -30,4 +29,10 @@ Add images and screenshot of your product, user iterface, etc. Animated GIFs of 
 
 
 ### BUILD INSTRUCTIONS
-TODO: Steps to follow for anyone to use this code
+To work with this code you need to first install Mavproxy and dronekit on your computer. The link for it is given below:
+http://python.dronekit.io/develop/installation.html
+Clone this repository on your computer.
+Change directory to the cloned directory and then type
+pyhton filename
+for example
+python four_quad_final.py
