@@ -24,7 +24,9 @@ c. Emergency landings
 ### IMAGES and GIFs
 Add images and screenshot of your product, user iterface, etc. Animated GIFs of User interfaces would be preferred.
 
-![](images/animated.gif)
+![](images/Quad setup.jpg)
+![](images/Quad setup.jpg)
+![](images/Quad setup.jpg)
 
 ### BUILD INSTRUCTIONS
 TODO: Steps to follow for anyone to use this code
