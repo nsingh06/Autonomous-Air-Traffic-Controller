@@ -19,7 +19,7 @@ c. Emergency landings
 (TODO: Add a brief description of the project and Final Goals)
 
 ### VIDEO
-[![http://tinypic.com/r/30ksq2r/9](https://drive.google.com/drive/folders/0B2COx00dlnxzUGNDb2QxV1lMZXM)](https://www.youtube.com/playlist?list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n)
+[![IMG_20161111_230927.jpg](https://drive.google.com/drive/folders/0B2COx00dlnxzUGNDb2QxV1lMZXM)](https://www.youtube.com/playlist?list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n)
 
 ### IMAGES and GIFs
 Add images and screenshot of your product, user iterface, etc. Animated GIFs of User interfaces would be preferred.
