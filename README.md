@@ -7,6 +7,7 @@ AUTONOMOUS AIR TRAFFIC CONTROLLER
 * Karan Modi
 * Nitesh Singh
 * [Blog](https://devpost.com/software/autonomous-air-traffic-controller-pg62u5)
+* [Project Report](FinalReport_Firestorm_AATC.pdf)
 
 ### DESCRIPTION AND GOALS
 
