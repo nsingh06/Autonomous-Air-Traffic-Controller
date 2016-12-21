@@ -18,7 +18,7 @@ Goals: For the project, Autonomous ATC will simulate following situations :
 * Emergency landings
 
 ### VIDEO
-[![](images/IMG_video.jpg)](https://www.youtube.com/playlist?list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n)
+[![](images/IMG_video.jpg)](https://www.youtube.com/watch?v=zIQvVEkTA7I&list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n&index=22)
 
 ### IMAGES and GIFs
 Add images and screenshot of your product, user iterface, etc. Animated GIFs of User interfaces would be preferred.
