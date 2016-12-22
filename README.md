@@ -3,9 +3,9 @@ AUTONOMOUS AIR TRAFFIC CONTROLLER
 
 **University of Pennsylvania, ESE 519: Real Time and Embedded Systems**
 
-* Prateek Singhal
 * Karan Modi
 * Nitesh Singh
+* Prateek Singhal
 * [Blog](https://devpost.com/software/autonomous-air-traffic-controller-pg62u5)
 * [Report](FinalReport_Firestorm_AATC.pdf)
 * [Video](https://www.youtube.com/watch?v=zIQvVEkTA7I&list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n&index=22)
