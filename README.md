@@ -7,6 +7,10 @@ AUTONOMOUS AIR TRAFFIC CONTROLLER
 * Karan Modi
 * Nitesh Singh
 * [Blog](https://devpost.com/software/autonomous-air-traffic-controller-pg62u5)
+* [Report](FinalReport_Firestorm_AATC.pdf)
+* [Video](https://www.youtube.com/watch?v=zIQvVEkTA7I&list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n&index=22)
+
+We moved our Git repository to [here](https://github.com/modi-karan/Autonomous-Air-Traffic-Controller) due to permissions problems. That is the updated repository and hosts all our files.
 
 ### DESCRIPTION AND GOALS
 
