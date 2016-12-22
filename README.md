@@ -9,7 +9,9 @@ AUTONOMOUS AIR TRAFFIC CONTROLLER
 * [Blog](https://devpost.com/software/autonomous-air-traffic-controller-pg62u5)
 * [Report](FinalReport_Firestorm_AATC.pdf)
 * [Video](https://www.youtube.com/watch?v=zIQvVEkTA7I&list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n&index=22)
+* [Code](https://github.com/modi-karan/Autonomous-Air-Traffic-Controller)
 
+### Note
 We moved our Git repository to [here](https://github.com/modi-karan/Autonomous-Air-Traffic-Controller) due to permissions problems. That is the updated repository and hosts all our files.
 
 ### DESCRIPTION AND GOALS
@@ -22,12 +24,11 @@ Goals: For the project, Autonomous ATC will simulate following situations :
 * Emergency landings
 
 ### VIDEO
-[![](images/IMG_video.jpg)](https://www.youtube.com/playlist?list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n)
+[![](images/IMG_20161121_173610.jpg)](https://www.youtube.com/playlist?list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n)
 
 ### IMAGES and GIFs
-Add images and screenshot of your product, user iterface, etc. Animated GIFs of User interfaces would be preferred.
 
-![](images/HL Block diagram.jpg)
+![](images/system architechture.jpg)
 ![](images/Quad setup.jpg)
 ![](images/ATC setup.jpg)
 
