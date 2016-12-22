@@ -3,11 +3,14 @@ AUTONOMOUS AIR TRAFFIC CONTROLLER
 
 **University of Pennsylvania, ESE 519: Real Time and Embedded Systems**
 
-* Prateek Singhal
 * Karan Modi
 * Nitesh Singh
+* Prateek Singhal
 * [Blog](https://devpost.com/software/autonomous-air-traffic-controller-pg62u5)
 * [Project Report](FinalReport_Firestorm_AATC.pdf)
+* [Project Proposal](GroupFirestorm_ESE519_ProjectProposal.pdf)
+* [Videos](https://www.youtube.com/watch?v=zIQvVEkTA7I&list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n&index=22)
+* [Code](https://github.com/modi-karan/Autonomous-Air-Traffic-Controller)
 
 ### DESCRIPTION AND GOALS
 
@@ -22,7 +25,6 @@ Goals: For the project, Autonomous ATC will simulate following situations :
 [![](images/IMG_video.jpg)](https://www.youtube.com/watch?v=zIQvVEkTA7I&list=PLuWLqb5ctXWFwknlIJluRaV9K4BDzSD1n&index=22)
 
 ### IMAGES and GIFs
-Add images and screenshot of your product, user iterface, etc. Animated GIFs of User interfaces would be preferred.
 
 ![](images/HL Block diagram.jpg)
 ![](images/Quad setup.jpg)
